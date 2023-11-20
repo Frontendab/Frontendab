@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **front-end developer**
 
-- 📫 How to reach me **ayoubpourletravail@gmail.com**
+- 📫 How to reach me **sadouriayoub7@gmail.com**
 
 - ⚡ Fun fact **I think i am funny and serious**
 
