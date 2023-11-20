@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/ayoub_sadouri" target="blank"><img src="https://img.shields.io/twitter/follow/ayoub_sadouri?logo=twitter&style=for-the-badge" alt="ayoub_sadouri" /></a> </p>
 
-- 🔭 I’m currently working on **Quiz App**
-
-- 🌱 I’m currently learning **Angular, Vue, React**
-
 - 💬 Ask me about **front-end developer**
 
 - 📫 How to reach me **sadouriayoub7@gmail.com**
