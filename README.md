@@ -4,10 +4,12 @@
 </div>
 
 ###
+<img width="100%" height="3px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 <h1 align="center">Hi there!  I'm a MERN stack developer passionate about building cool things. Let's connect! ✨</h1>
 
-###
+<img width="100%" height="3px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Frontendab/count.svg?"  />
