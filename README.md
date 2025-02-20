@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi there!  I'm a MERN stack developer passionate about building cool things. Let's connect and create something amazing together! ✨</h1>
+<h1 align="left">Hi there!  I'm a MERN stack developer passionate about building cool things. Let's connect! ✨</h1>
 
 ###
 
