@@ -6,7 +6,9 @@
 ###
 <img width="100%" height="3px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-    console.log("Hi there!  I'm a MERN stack developer passionate about building cool things. Let's connect! ✨");
+```bash
+console.log("Hi there!  I'm a MERN stack developer passionate about building cool things. Let's connect! ✨");
+```
 
 <img width="100%" height="3px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
